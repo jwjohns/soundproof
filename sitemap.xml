@@ -2,71 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jwjohns.github.io/soundproof/services/custom-car-stereo/</loc>
+    <loc>http://localhost:1313/services/custom-car-stereo/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/work/marine-rv/</loc>
+    <loc>http://localhost:1313/work/marine-rv/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/work/window-tinting/</loc>
+    <loc>http://localhost:1313/work/window-tinting/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/work/lifts-wheels/</loc>
+    <loc>http://localhost:1313/work/lifts-wheels/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/services/suspension-lifts/</loc>
+    <loc>http://localhost:1313/services/suspension-lifts/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/work/custom-car-audio/</loc>
+    <loc>http://localhost:1313/work/custom-car-audio/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2018-12-06T09:29:16+10:00</lastmod>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/social/</loc>
+    <loc>http://localhost:1313/social/</loc>
     <lastmod>2018-12-06T09:29:16+10:00</lastmod>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/brands/</loc>
+    <loc>http://localhost:1313/brands/</loc>
     <lastmod>2018-12-06T09:29:16+10:00</lastmod>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/history/</loc>
+    <loc>http://localhost:1313/history/</loc>
     <lastmod>2018-12-06T09:29:16+10:00</lastmod>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/pages/</loc>
+    <loc>http://localhost:1313/pages/</loc>
     <lastmod>2018-12-06T09:29:16+10:00</lastmod>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/services/remote-start/</loc>
+    <loc>http://localhost:1313/services/remote-start/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/services/marine-audio/</loc>
+    <loc>http://localhost:1313/services/marine-audio/</loc>
     <lastmod>2018-11-28T15:15:26+10:00</lastmod>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/services/laser-jammers/</loc>
+    <loc>http://localhost:1313/services/laser-jammers/</loc>
     <lastmod>2018-11-28T15:14:54+10:00</lastmod>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/services/truck-accessories/</loc>
+    <loc>http://localhost:1313/services/truck-accessories/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/services/window-tinting/</loc>
+    <loc>http://localhost:1313/services/window-tinting/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2018-02-12T15:37:57+07:00</lastmod>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/services/</loc>
+    <loc>http://localhost:1313/services/</loc>
     <lastmod>2018-02-10T11:52:18+07:00</lastmod>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/work/</loc>
+    <loc>http://localhost:1313/work/</loc>
     <lastmod>2018-02-10T11:52:18+07:00</lastmod>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/404/</loc>
+    <loc>http://localhost:1313/404/</loc>
     <lastmod>2018-02-10T10:52:03+07:00</lastmod>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://jwjohns.github.io/soundproof/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
